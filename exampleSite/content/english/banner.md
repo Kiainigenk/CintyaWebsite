@@ -3,7 +3,7 @@ title : "Saya Cintya Panggabean"
 # full screen navigation
 first_name : "Cintya"
 last_name : "Panggabean"
-bg_image : "images/backgrounds/XI TKJ.jpg"
+bg_image : "images/backgrounds/me.jpeg"
 # animated text loop
 occupations:
 - "XI Akuntansi"
