@@ -3,22 +3,22 @@ title: "See This"
 bg_image: "images/backgrounds/funfact-bg.jpg"
 funfacts:
 # funfacts item loop
-- name : "SUKA DEPAN LAPTOP"
+- name : "Nyanyi"
   image : "images/icons/works.png"
   count : "100"
   
 # funfacts item loop
-- name : "HAPPY MOOD"
+- name : "Membucin"
   image : "images/icons/happy.png"
-  count : "50"
+  count : "95"
   
 # funfacts item loop
-- name : "SUKA NUGAS"
+- name : "Membaca"
   image : "images/icons/project.png"
-  count : "70"
+  count : "95"
   
 # funfacts item loop
-- name : "MINUM KOPI"
+- name : "Menulis"
   image : "images/icons/coffee.png"
   count : "90"
 

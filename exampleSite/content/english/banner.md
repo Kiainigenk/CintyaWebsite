@@ -1,20 +1,20 @@
 ---
-title : "Saya Hizkia Panggabean"
+title : "Saya Cintya Panggabean"
 # full screen navigation
-first_name : "Hizkia "
+first_name : "Cintya"
 last_name : "Panggabean"
 bg_image : "images/backgrounds/XI TKJ.jpg"
 # animated text loop
 occupations:
-- "XI TKJ"
-- "Love Design"
-- "IT STUDENT"
+- "XI Akuntansi"
+- "Bucin Tiap Hari!"
+- "STUDENT"
 
 # slider background image loop
 slider_images:
-- "images/slider/XI TKJ.jpg"
-- "images/slider/BAJU HITAM.jpeg"
-- "images/slider/tarutung .jpeg"
+- "images/slider/friends.jpeg"
+- "images/slider/two people.jpeg"
+- "images/slider/me.jpeg"
 
 # button
 button:

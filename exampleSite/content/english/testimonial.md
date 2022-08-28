@@ -8,10 +8,10 @@ testimonial_slider:
   content : "Pengetahuan terbatas, Sedangkan Imajinasi Seluas Langit Dan Bumi."
             
 # slider item loop
-- name : "Hizkia Panggabean"
-  image : "images/clients/Hizkia.jpg"
+- name : "Cintya Panggabean"
+  image : "images/clients/me.jpeg"
   designation : "STUDENT"
-  content : "HIDUP ITU SAMPAH MAKA BUATLAH BERHARGA."
+  content : "Lakukan segalanya untuk Tuhan"
             
 # slider item loop
 - name : "Steve Jobs"

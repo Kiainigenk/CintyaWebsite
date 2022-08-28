@@ -1,16 +1,16 @@
 ---
-title : "SERVICES"
+title : "Something I Love"
 service_list:
 # service item loop
-- name : "Installation"
+- name : "Mencintai"
   image : "images/icons/web-development.png"
   
 # service item loop
-- name : "Graphic/Powerpoint Design"
+- name : "Menghalu"
   image : "images/icons/graphic-design.png"
   
 # service item loop
-- name : "Nonton Anime"
+- name : "Mimpi"
   image : "images/icons/dbms.png"
   
 

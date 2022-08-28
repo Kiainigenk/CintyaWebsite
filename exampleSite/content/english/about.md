@@ -1,6 +1,6 @@
 ---
 title : "Read About Me"
-image : "images/backgrounds/Hizkia.jpg"
+image : "images/backgrounds/me.jpeg"
 # button
 button:
   enable : false
@@ -75,4 +75,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Hizkia,IT STUDENT. I love to Design In Every App, it's my passion. <br>LIFE IS TRASH THEN MAKE IT WORTH:( <br>Saya Itu Anak IT Yang Noob Masih. <br>TERIMAKASIH TELAH MENGUNJUNGI WEBSITE SAYA :) 
+It's Cintya,IT STUDENT. I love to Design In Every App, it's my passion. <br>LIFE IS TRASH THEN MAKE IT WORTH:( <br>Saya Itu Anak IT Yang Noob Masih. <br>TERIMAKASIH TELAH MENGUNJUNGI WEBSITE SAYA :) 

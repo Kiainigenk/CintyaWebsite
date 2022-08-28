@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://kiaweb.netlify.app/"
-title = "HizkiaWebsite"
+title = "CintyaWebsite"
 theme = "somrat"
 # post pagination
 paginate = "6"
@@ -68,7 +68,7 @@ logo_dark = "images/logo-dark.png"
 logo_width = "150px"
 # Meta data
 description = "Website"
-author = "kia"
+author = "Cintya"
 
 # Preloader
 [params.preloader]
@@ -78,23 +78,19 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 ############################# social site ########################
 [[params.social]]
 icon = "fab fa-facebook-f"
-link = "https://www.facebook.com/hizkia.panggabean.1/"
+link = "https://www.facebook.com/cintya.panggabean.1"
 
 [[params.social]]
 icon = "fab fa-twitter"
-link = "https://twitter.com/Kia_ini_genk"
+link = "https://twitter.com/CintyaMPanggab1?t=1nu2yEM-WAe5oBnmAItoow&s=08"
 
 [[params.social]]
 icon = "fab fa-instagram"
-link = "https://www.instagram.com/kiainigenk1661/"
+link = "https://www.instagram.com/cintya_pgbn/"
 
 [[params.social]]
-icon = "fab fa-github"
-link = "https://github.com/Kiainigenk"
-
-[[params.social]]
-icon = "fab fa-linkedin"
-link = "https://t.me/KiaGabe"
+icon = "fab fa-telegram"
+link = "#"
 
 
 ################################### English language #####################################

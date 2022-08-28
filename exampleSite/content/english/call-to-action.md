@@ -4,7 +4,7 @@ bg_image : "images/backgrounds/need-service.jpg"
 button:
   enable : true
   label : "SAY HELLO!"
-  link : "https://www.instagram.com/kiainigenk1661/"
+  link : "https://www.instagram.com/cintya_pgbn/"
 
 
 # custom style
