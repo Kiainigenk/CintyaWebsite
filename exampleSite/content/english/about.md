@@ -37,10 +37,10 @@ experience:
       content : "Bermainlah Pada Saat Yang Tepat Dan Jangan Lupa Belajar !!." 
 
       # experience item loop
-    - name : "Design"
-      company : "Do Your Passion. "
+    - name : "LAGU"
+      company : "MUSIK ADALAH KEHIDUPAN. "
       duration : ""
-      content : "Design Itu Seperti Merokok, Buat Ketagihan!!!." 
+      content : "Tanpa musik kita hampa" 
 
 ############################### Skill #################################
 skill:
@@ -64,8 +64,8 @@ skill:
       percentage : "70%"
     
     # skill item loop
-    - name : "Design"
-      percentage : "75%"
+    - name : "Lagu"
+      percentage : "95%"
 
 
 
@@ -75,4 +75,5 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Cintya,IT STUDENT. I love to Design In Every App, it's my passion. <br>LIFE IS TRASH THEN MAKE IT WORTH:( <br>Saya Itu Anak IT Yang Noob Masih. <br>TERIMAKASIH TELAH MENGUNJUNGI WEBSITE SAYA :) 
+It's Cintya anak akuntansi. suka dia yang suka saturnus, suka abang kelas,<br>
+suka nyanyi, berbicara. menulis, dan suka mendengarkan musik, suka jajan, dan suka segala hal tentang dia
